@@ -84,5 +84,5 @@ def process_folder(folder, fps=12, width=512):
 
 # --- Example usage ---
 if __name__ == "__main__":
-    folder_path = "C:\\Users\\arjun\\Desktop\\Anime Clciker Vids"  # change to your folder
-    process_folder(folder_path, fps=24, width=512)   # UI animations
+    folder_path = "C:\\MyAnimations"  # change to your folder
+    process_folder(folder_path, fps=24, width=512)   # process to spritesheets
