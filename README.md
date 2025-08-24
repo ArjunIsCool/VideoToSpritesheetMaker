@@ -5,4 +5,5 @@ A simple tool to convert video animations to spritesheets quickly. This is usefu
 Notes: 
 
 -By default I've enabled chroma key to remove green screen from the video during generation.
+
 -It runs FFmpeg commands, so you will need to install [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) before trying to run this code.
